@@ -1,0 +1,4 @@
+F:\Sources\DFN\WebApp\WTS.WebApplication\WTS.DataContracts\bin\Release\WTS.DataContracts.dll
+F:\Sources\DFN\WebApp\WTS.WebApplication\WTS.DataContracts\bin\Release\WTS.DataContracts.pdb
+F:\Sources\DFN\WebApp\WTS.WebApplication\WTS.DataContracts\obj\Release\WTS.DataContracts.dll
+F:\Sources\DFN\WebApp\WTS.WebApplication\WTS.DataContracts\obj\Release\WTS.DataContracts.pdb

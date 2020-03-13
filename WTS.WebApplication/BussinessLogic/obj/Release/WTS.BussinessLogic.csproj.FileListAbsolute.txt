@@ -1,0 +1,9 @@
+F:\Sources\DFN\WebApp\WTS.WebApplication\BussinessLogic\bin\Release\BussinessLogic.dll
+F:\Sources\DFN\WebApp\WTS.WebApplication\BussinessLogic\bin\Release\BussinessLogic.pdb
+F:\Sources\DFN\WebApp\WTS.WebApplication\BussinessLogic\bin\Release\WTS.DataAccess.dll
+F:\Sources\DFN\WebApp\WTS.WebApplication\BussinessLogic\bin\Release\WTS.DataContracts.dll
+F:\Sources\DFN\WebApp\WTS.WebApplication\BussinessLogic\bin\Release\WTS.DataAccess.pdb
+F:\Sources\DFN\WebApp\WTS.WebApplication\BussinessLogic\bin\Release\WTS.DataContracts.pdb
+F:\Sources\DFN\WebApp\WTS.WebApplication\BussinessLogic\obj\Release\WTS.BussinessLogic.csprojResolveAssemblyReference.cache
+F:\Sources\DFN\WebApp\WTS.WebApplication\BussinessLogic\obj\Release\BussinessLogic.dll
+F:\Sources\DFN\WebApp\WTS.WebApplication\BussinessLogic\obj\Release\BussinessLogic.pdb

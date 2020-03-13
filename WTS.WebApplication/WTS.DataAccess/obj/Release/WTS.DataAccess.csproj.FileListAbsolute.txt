@@ -1,0 +1,7 @@
+F:\Sources\DFN\WebApp\WTS.WebApplication\WTS.DataAccess\bin\Release\WTS.DataAccess.dll
+F:\Sources\DFN\WebApp\WTS.WebApplication\WTS.DataAccess\bin\Release\WTS.DataAccess.pdb
+F:\Sources\DFN\WebApp\WTS.WebApplication\WTS.DataAccess\bin\Release\WTS.DataContracts.dll
+F:\Sources\DFN\WebApp\WTS.WebApplication\WTS.DataAccess\bin\Release\WTS.DataContracts.pdb
+F:\Sources\DFN\WebApp\WTS.WebApplication\WTS.DataAccess\obj\Release\WTS.DataAccess.csprojResolveAssemblyReference.cache
+F:\Sources\DFN\WebApp\WTS.WebApplication\WTS.DataAccess\obj\Release\WTS.DataAccess.dll
+F:\Sources\DFN\WebApp\WTS.WebApplication\WTS.DataAccess\obj\Release\WTS.DataAccess.pdb

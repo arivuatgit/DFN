@@ -1,0 +1,5 @@
+F:\Sources\DFN\WebApp\WTS.WebApplication\WTS.DataContracts\bin\Debug\WTS.DataContracts.dll
+F:\Sources\DFN\WebApp\WTS.WebApplication\WTS.DataContracts\bin\Debug\WTS.DataContracts.pdb
+F:\Sources\DFN\WebApp\WTS.WebApplication\WTS.DataContracts\obj\Debug\WTS.DataContracts.dll
+F:\Sources\DFN\WebApp\WTS.WebApplication\WTS.DataContracts\obj\Debug\WTS.DataContracts.pdb
+F:\Sources\DFN\WebApp\WTS.WebApplication\WTS.DataContracts\obj\Debug\WTS.DataContracts.csprojResolveAssemblyReference.cache

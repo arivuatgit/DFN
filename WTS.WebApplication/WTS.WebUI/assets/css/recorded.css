@@ -1,0 +1,42 @@
+﻿body {
+
+}
+#tblRecorded
+{
+    border: solid 1px aliceblue;
+}
+#tblRecorded thead
+{
+   color: #495873;
+   border:solid 1px #aca6a6;
+}
+#tblRecorded thead tr th
+{
+    /*border: solid 1px #aca6a6;*/
+     border-right: solid 1px #8a8a8a;
+     border-radius:5px;
+   background: #404f62;
+   color:#ddd;
+}
+#tblRecorded tbody
+{
+   /*color: #495873;*/
+   color:black;
+   border:solid 1px;
+}
+#tblRecorded tbody tr td
+{
+    border-right:solid 1px #aca6a6;
+    font-weight:bold;
+}
+.highlightRow{
+    background-color:#ddd !important;
+}
+#divVideoPanel video{
+   
+        width:700px;
+        height:400px;
+        margin-left:auto;
+        margin-right:auto;
+        display:block;
+}

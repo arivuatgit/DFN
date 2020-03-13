@@ -1,0 +1,13 @@
+F:\Sources\DFN\WebApp\WTS.WebApplication\WTS.ServiceImplementation\bin\Release\WTS.ServiceImplementation.dll
+F:\Sources\DFN\WebApp\WTS.WebApplication\WTS.ServiceImplementation\bin\Release\WTS.ServiceImplementation.pdb
+F:\Sources\DFN\WebApp\WTS.WebApplication\WTS.ServiceImplementation\bin\Release\BussinessLogic.dll
+F:\Sources\DFN\WebApp\WTS.WebApplication\WTS.ServiceImplementation\bin\Release\WTS.DataContracts.dll
+F:\Sources\DFN\WebApp\WTS.WebApplication\WTS.ServiceImplementation\bin\Release\WTS.ServiceContracts.dll
+F:\Sources\DFN\WebApp\WTS.WebApplication\WTS.ServiceImplementation\bin\Release\WTS.DataAccess.dll
+F:\Sources\DFN\WebApp\WTS.WebApplication\WTS.ServiceImplementation\bin\Release\BussinessLogic.pdb
+F:\Sources\DFN\WebApp\WTS.WebApplication\WTS.ServiceImplementation\bin\Release\WTS.DataContracts.pdb
+F:\Sources\DFN\WebApp\WTS.WebApplication\WTS.ServiceImplementation\bin\Release\WTS.ServiceContracts.pdb
+F:\Sources\DFN\WebApp\WTS.WebApplication\WTS.ServiceImplementation\bin\Release\WTS.DataAccess.pdb
+F:\Sources\DFN\WebApp\WTS.WebApplication\WTS.ServiceImplementation\obj\Release\WTS.ServiceImplementation.csprojResolveAssemblyReference.cache
+F:\Sources\DFN\WebApp\WTS.WebApplication\WTS.ServiceImplementation\obj\Release\WTS.ServiceImplementation.dll
+F:\Sources\DFN\WebApp\WTS.WebApplication\WTS.ServiceImplementation\obj\Release\WTS.ServiceImplementation.pdb

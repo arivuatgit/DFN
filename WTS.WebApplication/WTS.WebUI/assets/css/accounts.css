@@ -1,0 +1,33 @@
+﻿body {
+}
+#tblAccounts
+{
+    border: solid 1px aliceblue;
+}
+#tblAccounts thead
+{
+   color: #495873;
+   border:solid 1px #aca6a6;
+}
+#tblAccounts thead tr th
+{
+    /*border: solid 1px #aca6a6;*/
+     border-right: solid 1px #8a8a8a;
+     border-radius:5px;
+   background: #404f62;
+   color:#ddd;
+}
+#tblAccounts tbody
+{
+   /*color: #495873;*/
+   color:black;
+   border:solid 1px;
+}
+#tblAccounts tbody tr td
+{
+    border-right:solid 1px #aca6a6;
+    font-weight:bold;
+}
+.highlightRow{
+    background-color:#ddd !important;
+}
